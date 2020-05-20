@@ -5,6 +5,8 @@
 
 ### Lebenslauf
 
+![Image of Yaktocat](https://www.thispersondoesnotexist.com/image)
+
 | Informationen      |                        |
 | ------------- |:----------------------:| 
 | **Name**          | Maria Muster | 
