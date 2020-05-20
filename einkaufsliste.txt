@@ -3,3 +3,5 @@ Birnen
 Salat
 Tomate
 Brot
+Birne
+Tomaten
